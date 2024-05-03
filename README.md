@@ -1,2 +1,2 @@
-# Test Management System
+# Quiz App
 
