@@ -112,6 +112,37 @@ let questionsArr = [
        "Unique Resource Locator",
         ]
     },
+    {numb: 11,
+    question:"Which is the smallest country in the world",
+    answers:"Vatican city",
+    options: [
+        "Vatican city",
+        "Bhutan",
+        "Nepal",
+        "Sri Lanka",
+    ]
+},
+{numb: 12,
+  question:"Which is the largest desert in the world",
+  answers:"Sahara",
+  options:[
+      "Kalahari",
+      "Gobi",
+      "Sahara",
+      "Antartica",
+  ]
+},
+{
+    numb: 13,
+    question:"Which is the largest animal in the world",
+    answer:"Blue whale",
+    options: [
+        "shark",
+        "Blue whale",
+        "Bear",
+        "Elephant",
+      ]
+  },
   ];
 
 
