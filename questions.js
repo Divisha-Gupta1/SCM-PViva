@@ -57,15 +57,61 @@ let questionsArr = [
     // you can uncomment the below codes and make duplicate as more as you want to add question
     // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
   
-    //   {
-    //   numb: 6,
-    //   question: "Your Question is Here",
-    //   answer: "Correct answer of the question is here",
-    //   options: [
-    //     "Option 1",
-    //     "option 2",
-    //     "option 3",
-    //     "option 4"
-    //   ]
-    // },
+       {
+       numb: 6,
+       question: "What is the purpose of a compiler?",
+       answer: "To convert high-level programming languages into machine code",
+       options: [
+         "To execute programs",
+         "To convert high-level programming languages into machine code",
+         "To manage databases"
+          "To create graphical user interfaces",
+       ]
+     },
+    {
+    numb: 7,
+       question: "Which programming language is widely used for web development?",
+       answer:"Javascript",
+       options : [
+         "Java",
+         "C++",
+         "Python",
+        "JavaScript",
+       ]
+     },
+    {
+    numb: 8,
+       question: "What does the acronym LAN stand for?",
+       answer:"Local Area Network",
+       options : [ 
+       "Local Access Network",
+       "Large Area Network",
+       "Local Area Network",
+       "Limited Access Network",
+       ]
+     },
+    {
+    numb: 9,
+       question: "What does TCP stand for?",
+       answer:"Transmission Control Protocol",
+       options : [ 
+       "Transmission Control Protocol",
+       "Technical Control Protocol",
+       "Transport Connection Protocol",
+       "Transmission Connection Protocol",
+        ]
+    },
+     {
+    numb: 10,
+       question: "What does URL stand for?",
+       answer:"Uniform Resource Locator",
+       options : [ 
+       "Universal Resource Locator",
+       "Uniform Resource Locator",
+       "Unified Resource Locator",
+       "Unique Resource Locator",
+        ]
+    },
   ];
+
+
