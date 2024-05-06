@@ -144,5 +144,8 @@ let questionsArr = [
       ]
   },
   ];
+document.querySelector('.start_quiz').addEventListener('click', function() {
+    this.style.display = 'none';
+  });
 
 
