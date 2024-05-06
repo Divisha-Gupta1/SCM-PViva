@@ -15,8 +15,7 @@
      - Name:Kavish khanna
      - Roll NO. :231092118
  - ## DeadLine⏳
-
-
+   - 9-05-2024
 - ## Overview: 
 This repository contains a Quiz App developed in [programming language/framework]. The app allows users to participate in quiz o and test their knowledge.
 
