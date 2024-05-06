@@ -1,4 +1,18 @@
-# Quiz App
+# Quiz App📝🤔
+## Project Information📋
+ -**Primary Owner:**Kavish Khanna
+ -**Secondary Owner:**Kartik Joshi
+ ## Team Members👤👤👤
+
+- **Member 1**👤
+     - Name:Kartik Joshi
+     - Roll No. :2310992115
+- **Member 2**👤
+     - Name:Divisha Gupta
+     - Roll No. : 2310992116
+- **Member 3**👤
+     - Name:Kavish khanna
+     - Roll NO. :231092118
 Overview: 
 This repository contains a Quiz App developed in [programming language/framework]. The app allows users to participate in quiz o and test their knowledge.
 
